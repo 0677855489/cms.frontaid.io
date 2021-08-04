@@ -1,1 +1,7 @@
-{}
+{
+  "custom-field": "11",
+  "custom-object": {
+    "custom-line": "22",
+    "custom-text": "333"
+  }
+}
